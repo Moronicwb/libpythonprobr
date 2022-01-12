@@ -5,6 +5,10 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.pythonpro.br/)
 
+[![Updates](https://pyup.io/repos/github/Moronicwb/libpythonprobr/shield.svg)](https://pyup.io/repos/github/Moronicwb/libpythonprobr/)
+[![Python 3](https://pyup.io/repos/github/Moronicwb/libpythonprobr/python-3-shield.svg)](https://pyup.io/repos/github/Moronicwb/libpythonprobr/)
+
+
 Suportada versão 3 de Python
 
 Pata instalar:
