@@ -7,7 +7,7 @@ Link para o curso [Python Pro](https://www.pythonpro.br/)
 
 [![Updates](https://pyup.io/repos/github/Moronicwb/libpythonprobr/shield.svg)](https://pyup.io/repos/github/Moronicwb/libpythonprobr/)
 [![Python 3](https://pyup.io/repos/github/Moronicwb/libpythonprobr/python-3-shield.svg)](https://pyup.io/repos/github/Moronicwb/libpythonprobr/)
-
+[![codecov](https://codecov.io/gh/Moronicwb/libpythonprobr/branch/main/graph/badge.svg?token=9UTQ56RHAW)](https://codecov.io/gh/Moronicwb/libpythonprobr)
 
 Suportada versão 3 de Python
 
