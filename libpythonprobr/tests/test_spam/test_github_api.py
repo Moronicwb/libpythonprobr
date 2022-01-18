@@ -12,3 +12,4 @@ def test_buscar_avatar():
     github_api.requests.get = Mock(return_value=resp_mock)
     url = github_api.buscar_avatar('Moronicwb')
     assert 'https://avatars.githubusercontent.com/u/40072506?v=4' == url
+
